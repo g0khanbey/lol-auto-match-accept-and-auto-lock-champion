@@ -1,0 +1,3 @@
+annie=1.png
+olaf=2.png
+ahri=3.png
